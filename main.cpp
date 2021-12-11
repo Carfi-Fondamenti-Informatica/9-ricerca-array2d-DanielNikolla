@@ -13,7 +13,7 @@ int main(){
     if(ricerca(a, f, pos)){
         cout << pos << endl;
     }else{
-        cout << "mon presente" << endl;
+        cout << " a non presente" << endl;
     }
     return 0;
 } 
